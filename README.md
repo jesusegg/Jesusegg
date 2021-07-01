@@ -1,6 +1,6 @@
 <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/banner.png"/>
 
-Soy Full Stack Developer con experiencia en el desarrollo de aplicaciones web basadas en JAVASCRIPT, HTML, CSS, REACT, REDUX, NODE JS, SQL, GIT.
+Soy Full Stack Developer con experiencia en el desarrollo de aplicaciones web basadas en  HTML, CSS, JAVASCRIPT, SASS,GIT,NODE JS,EXPRESS REACT, REDUX,SEQUELIZE, POSTGRESQL, TYPESCRIPT.
 Me gusta la música, las actividades al aire libre y siempre estoy en constante aprendizaje. Me gusta mantenerme actualizado y enfrentar nuevos retos.
 
 
