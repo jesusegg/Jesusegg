@@ -59,7 +59,11 @@ Created with Html-Css-Sass-Javascript
 #### You can view this repo [Here](https://github.com/jesusegg/concierto-musica) 
 
 ---  
-
+## :paperclip: How to reach me:
+<div >
+<a href="https://www.linkedin.com/in/jes%C3%BAs-gedler-7135662a/" ><img width="5%" src="https://github.com/jesusegg/Jesusegg/blob/main/img/linkedin.svg"> &nbsp;
+<a href="mailto:jesusegg@hotmail.com" ><img width="5%" src="https://github.com/jesusegg/Jesusegg/blob/main/img/email.png">
+</div>
 
 <!--
 **jesusegg/Jesusegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
