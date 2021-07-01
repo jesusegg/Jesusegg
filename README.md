@@ -24,6 +24,20 @@ Me gusta la música, las actividades al aire libre y siempre estoy en constante 
 ---  
 
 
+
+<h2 align="center"> Some Projects  </h2>  
+
+---  
+### Netflix Clone
+Created with Html-Css-Javascript-React
+
+---
+[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/netflix-clone.jpg" />](https://netflix-clone-f490a.web.app/)
+---
+#### You can view this project [Here](https://javierbalonga.github.io/Food-App/)
+
+---  
+
 <!--
 **jesusegg/Jesusegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
