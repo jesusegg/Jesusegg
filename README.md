@@ -38,6 +38,27 @@ Created with Html-Css-Javascript-React
 #### You can view this repo [Here](https://github.com/jesusegg/netflix-clone) 
 
 ---  
+### Dog Breeds Catalog Page 
+Full Stack Project
+Created with Html-Css-Sass-Javascript-React in Front-end and Express-Sequelize-PostgreSQL in Back-end
+
+---
+[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/dogs.jpg" />](https://netflix-clone-f490a.web.app/)
+---
+#### You can view this project [Here](https://netflix-clone-f490a.web.app/) 
+#### You can view this repo [Here](https://github.com/jesusegg/PI-Dogs-FT13) 
+
+---  
+### Concert Landing Page 
+Created with Html-Css-Sass-Javascript
+---
+[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/concierto.pgn" />](https://concierto-jesusgedler.netlify.app/)
+---
+#### You can view this project [Here](https://concierto-jesusgedler.netlify.app/) 
+#### You can view this repo [Here](https://github.com/jesusegg/concierto-musica) 
+
+---  
+
 
 <!--
 **jesusegg/Jesusegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
