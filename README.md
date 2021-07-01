@@ -34,7 +34,7 @@ Created with Html-Css-Javascript-React
 ---
 [<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/netflix-clone.jpg" />](https://netflix-clone-f490a.web.app/)
 ---
-#### You can view this project [Here](https://javierbalonga.github.io/Food-App/)
+#### You can view this project [Here](https://netflix-clone-f490a.web.app/)
 
 ---  
 
