@@ -34,7 +34,8 @@ Created with Html-Css-Javascript-React
 ---
 [<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/netflix-clone.jpg" />](https://netflix-clone-f490a.web.app/)
 ---
-#### You can view this project [Here](https://netflix-clone-f490a.web.app/)
+#### You can view this project [Here](https://netflix-clone-f490a.web.app/) 
+#### You can view this repo [Here](https://github.com/jesusegg/netflix-clone) 
 
 ---  
 
