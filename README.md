@@ -11,6 +11,7 @@ Me gusta la música, las actividades al aire libre y siempre estoy en constante 
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/html-5.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/css-3.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/logo-javascript.svg" width="30" height="30" align="center"/>
+  <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/sass.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/git-icon.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/nodejs-icon.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/express.png" width="30" height="30" align="center" color="white"/>
