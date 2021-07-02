@@ -24,7 +24,7 @@ I'm a Full Stack Developer with experience on web app development based on HTML,
 
 
 
-<h2 align="center"> Some Projects  </h2>  
+<h2 align="center"> Some of my projects  </h2>  
 
 ---  
 ### Netflix Clone
