@@ -44,9 +44,9 @@ Full Stack Project
 Created with Html-Css-Sass-Javascript-React in Front-end and Express-Sequelize-PostgreSQL in Back-end
 
 ---
-[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/dogs.jpg" />](https://netflix-clone-f490a.web.app/)
+[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/dogs.jpg" />](https://dogs-breeds-jesus-a6d82.web.app/Dogs/Home)
 ---
-#### You can view this project [Here](https://netflix-clone-f490a.web.app/) 
+#### You can view this project [Here](https://dogs-breeds-jesus-a6d82.web.app/Dogs/Home) 
 #### You can view this repo [Here](https://github.com/jesusegg/PI-Dogs-FT13) 
 
 ---  
