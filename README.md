@@ -1,8 +1,6 @@
 <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/banner.png"/>
 
-I'm a Full Stack Developer with experience on web app development based on HTML, CSS, JAVASCRIPT, SASS, GIT, NODE JS, EXPRESS, REACT, REDUX, SEQUELIZE, POSTGRESQL, and TYPESCRIPT.
-Facts about me: I love music, outdoors activities, spending time with my family and videogames. I'm always looking to improve myself and learning new things. I like to be up to date and face new challenges
-
+I'm a Full Stack Developer with experience on web app development based on HTML, CSS, JAVASCRIPT, SASS, GIT, NODE JS, EXPRESS, REACT, REDUX, SEQUELIZE, POSTGRESQL, and TYPESCRIPT. Facts about me: I love music, outdoors activities, spending time with my family and playing videogames. I'm always looking to improve myself and learning new things. 
 
 ---
 
