@@ -1,8 +1,6 @@
 <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/banner.png"/>
 
-Soy Full Stack Developer con experiencia en el desarrollo de aplicaciones web basadas en JAVASCRIPT, HTML, CSS, REACT, REDUX, NODE JS, SQL, GIT.
-Me gusta la música, las actividades al aire libre y siempre estoy en constante aprendizaje. Me gusta mantenerme actualizado y enfrentar nuevos retos.
-
+I'm a Full Stack Developer with experience working with HTML, CSS, JAVASCRIPT, SASS, GIT, NODE JS, EXPRESS, REACT, REDUX, SEQUELIZE, POSTGRESQL, and TYPESCRIPT. Facts about me: I love music, outdoors activities, spending time with my family and playing videogames. I'm always looking to improve myself and learning new things. 
 
 ---
 
@@ -11,6 +9,7 @@ Me gusta la música, las actividades al aire libre y siempre estoy en constante 
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/html-5.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/css-3.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/logo-javascript.svg" width="30" height="30" align="center"/>
+  <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/sass.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/git-icon.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/nodejs-icon.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/express.png" width="30" height="30" align="center" color="white"/>
@@ -25,7 +24,7 @@ Me gusta la música, las actividades al aire libre y siempre estoy en constante 
 
 
 
-<h2 align="center"> Some Projects  </h2>  
+<h2 align="center"> Some of my projects  </h2>  
 
 ---  
 ### Netflix Clone
@@ -43,9 +42,9 @@ Full Stack Project
 Created with Html-Css-Sass-Javascript-React in Front-end and Express-Sequelize-PostgreSQL in Back-end
 
 ---
-[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/dogs.jpg" />](https://netflix-clone-f490a.web.app/)
+[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/dogs.jpg" />](https://dogs-breeds-jesus-a6d82.web.app/Dogs/Home)
 ---
-#### You can view this project [Here](https://netflix-clone-f490a.web.app/) 
+#### You can view this project [Here](https://dogs-breeds-jesus-a6d82.web.app/Dogs/Home) 
 #### You can view this repo [Here](https://github.com/jesusegg/PI-Dogs-FT13) 
 
 ---  
@@ -59,7 +58,11 @@ Created with Html-Css-Sass-Javascript
 #### You can view this repo [Here](https://github.com/jesusegg/concierto-musica) 
 
 ---  
-
+## :paperclip: How to reach me:
+<div >
+<a href="https://www.linkedin.com/in/jes%C3%BAs-gedler-7135662a/" ><img width="5%" src="https://github.com/jesusegg/Jesusegg/blob/main/img/linkedin.svg"> &nbsp;
+<a href="mailto:jesusegg@hotmail.com" ><img width="5%" src="https://github.com/jesusegg/Jesusegg/blob/main/img/email.png">
+</div>
 
 <!--
 **jesusegg/Jesusegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
