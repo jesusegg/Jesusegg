@@ -1,6 +1,6 @@
 <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/banner.png"/>
 
-I'm a Full Stack Developer with experience working with HTML, CSS, JAVASCRIPT, SASS, GIT, NODE JS, EXPRESS, REACT, REDUX, SEQUELIZE, POSTGRESQL, and TYPESCRIPT. Facts about me: I love music, outdoors activities, spending time with my family and playing videogames. I'm always looking to improve myself and learning new things. 
+I'm a Full Stack Developer with experience working with HTML, CSS, JAVASCRIPT, SASS, GIT, NODE JS, EXPRESS, REACT, REDUX, SEQUELIZE, POSTGRESQL, MONGODB, and TYPESCRIPT. Facts about me: I love music, outdoors activities, spending time with my family and playing videogames. I'm always looking to improve myself and learning new things. 
 
 ---
 
@@ -63,7 +63,7 @@ Created with Html-Css-Sass-Javascript
 <a href="https://www.linkedin.com/in/jes%C3%BAs-gedler-7135662a/" ><img width="5%" src="https://github.com/jesusegg/Jesusegg/blob/main/img/linkedin.svg"> &nbsp;
 <a href="mailto:jesusegg@hotmail.com" ><img width="5%" src="https://github.com/jesusegg/Jesusegg/blob/main/img/email.png">
 </div>
-
+  
 <!--
 **jesusegg/Jesusegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
