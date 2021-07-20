@@ -17,6 +17,7 @@ I'm a Full Stack Developer with experience working with HTML, CSS, JAVASCRIPT, S
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/redux.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/sequelize.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/postgresql.svg" width="30" height="30" align="center"/>
+  <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/mongodb.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/typescript.svg" width="30" height="30" align="center"/>
 </p>  
 
