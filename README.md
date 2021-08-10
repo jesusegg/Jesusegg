@@ -17,6 +17,7 @@ I'm a Full Stack Developer with experience working with HTML, CSS, JAVASCRIPT, S
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/redux.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/sequelize.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/postgresql.svg" width="30" height="30" align="center"/>
+  <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/mongodb.svg" width="30" height="30" align="center"/>
   <img src="https://github.com/jesusegg/Jesusegg/blob/main/img/typescript.svg" width="30" height="30" align="center"/>
 </p>  
 
@@ -35,6 +36,17 @@ Created with Html-Css-Javascript-React
 ---
 #### You can view this project [Here](https://netflix-clone-f490a.web.app/) 
 #### You can view this repo [Here](https://github.com/jesusegg/netflix-clone) 
+
+---  
+ 
+### Trekker app
+Created with Html-Css-Javascript-React-typescript-node-express-moongose-mongoDB
+
+---
+[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/netflix-clone.jpg" />](https://netflix-clone-f490a.web.app/)
+---
+#### You can view this project [Here](https://trekker-59f4e.web.app/) 
+#### You can view this repo [Here](https://github.com/davidcesaretti/reservar) 
 
 ---  
 ### Dog Breeds Catalog Page 
