@@ -43,7 +43,7 @@ Created with Html-Css-Javascript-React
 Created with Html-Css-Javascript-React-typescript-node-express-moongose-mongoDB
 
 ---
-[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/netflix-clone.jpg" />](https://netflix-clone-f490a.web.app/)
+[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/trekker.png" />](https://trekker-59f4e.web.app/)
 ---
 #### You can view this project [Here](https://trekker-59f4e.web.app/) 
 #### You can view this repo [Here](https://github.com/davidcesaretti/reservar) 
@@ -68,8 +68,9 @@ Created with Html-Css-Sass-Javascript
 ---
 #### You can view this project [Here](https://concierto-jesusgedler.netlify.app/) 
 #### You can view this repo [Here](https://github.com/jesusegg/concierto-musica) 
-
 ---  
+[![Jesus Gedler's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusegg&show_icons=true)](https://github.com/jesusegg/github-readme-stats)
+---
 ## :paperclip: How to reach me:
 <div >
 <a href="https://www.linkedin.com/in/jes%C3%BAs-gedler-7135662a/" ><img width="5%" src="https://github.com/jesusegg/Jesusegg/blob/main/img/linkedin.svg"> &nbsp;
