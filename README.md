@@ -43,7 +43,7 @@ Created with Html-Css-Javascript-React
 Created with Html-Css-Javascript-React-typescript-node-express-moongose-mongoDB
 
 ---
-[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/trekker.png" />](https://trekker-59f4e.web.app/)
+[<img alt="" src="https://github.com/jesusegg/Jesusegg/blob/main/img/trekker.jpg" />](https://trekker-59f4e.web.app/)
 ---
 #### You can view this project [Here](https://trekker-59f4e.web.app/) 
 #### You can view this repo [Here](https://github.com/davidcesaretti/reservar) 
